@@ -12,3 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ ​[![​wakatime​](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@1858d548-dedf-4cbf-abbc-371441d6cf6a)
+
+ ​[![​github​](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alexfonteles/alexfonteles)
