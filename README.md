@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Sou de Fortaleza - Ce e estou migrando de área para me tornar um desenvolvedor.
+    Sou de Fortaleza, estado do Ceará e estou migrando de área para me tornar um desenvolvedor.
   </em>
 </p>
 
@@ -40,7 +40,6 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 
   
- ### 📈 My Social Media
  
 <div> 
   <a href="https://instagram.com/lexquintela" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
