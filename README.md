@@ -47,7 +47,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
   <a href="https://www.linkedin.com/in/alex-fonteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/qr/DFEF7GCZY44ED1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
-    <h3><p align="center">Total de visitas no perfil:</p>
+    <p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/alexfonteles/count.svg"/>
 </p>
